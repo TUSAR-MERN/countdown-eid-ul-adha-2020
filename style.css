@@ -183,6 +183,10 @@ body {
     .countdoun .countdown-box {
         width: 100%;
     }
+
+    .countdoun .countdown-box .seconds {
+        margin-right: 0;
+    }
 }
 
 @media screen and (max-width: 576.98px) {
