@@ -13,7 +13,7 @@ function edUlAdha() {
     let dy = hr * 24;
 
     // Get End Date Time 
-    let countDown = new Date('may 12, 2021, 00:00:00').getTime();
+    let countDown = new Date('july 19, 2021, 00:00:00').getTime();
     // Get Now Date Time
     let today = new Date().getTime();
     // Calculate End date time - Now date time
